@@ -1,0 +1,1 @@
+# PatternMode [![Build status](https://ci.appveyor.com/api/projects/status/4919v6xeufqtu6v1?svg=true)](https://ci.appveyor.com/project/Anastasiya/patternmode)
